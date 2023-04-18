@@ -6,10 +6,10 @@ const App = () => {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <h1 className="App-title">Bienvenue sur le blind test</h1>
+        <h1 className="App-title">Bienvenue sur le blind test codé par Emma Cap'imtaine Panerai</h1>
       </header>
       <div className="App-images">
-        <p>Blind test codé par Emma Cap'imtaine Panerai ! </p>
+        <p>Tente de deviner le plus possible de musique ! À toi de jouer !</p>
       </div>
       <div className="App-buttons"></div>
     </div>
